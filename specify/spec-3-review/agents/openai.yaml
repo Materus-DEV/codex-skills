@@ -1,0 +1,4 @@
+interface:
+  display_name: "spec-3-review"
+  short_description: "実装と検証証拠をサブエージェントで確認し、仕様との一致と悪影響を点検します"
+  default_prompt: "$spec-3-review を使い、実装の完了状況と悪影響・思い込みをレビューしてください。"

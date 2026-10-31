@@ -1,0 +1,4 @@
+interface:
+  display_name: "spec-3-build"
+  short_description: "計画に沿ってDockerを使って開発し、仕様どおりに動くか確認します"
+  default_prompt: "$spec-3-build を使い、フェーズ3として計画に沿って開発し、仕様どおりに動くか確認してください。"

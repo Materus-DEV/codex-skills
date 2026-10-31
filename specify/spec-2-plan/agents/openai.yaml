@@ -1,0 +1,4 @@
+interface:
+  display_name: "spec-2-plan"
+  short_description: "言語とDocker構成、作業順序を決め、仕様と計画の抜けや矛盾を確認します"
+  default_prompt: "$spec-2-plan を使い、フェーズ2として仕様書から作り方と作業の順番を決めてください。"

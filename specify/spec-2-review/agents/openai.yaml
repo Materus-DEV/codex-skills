@@ -1,0 +1,4 @@
+interface:
+  display_name: "spec-2-review"
+  short_description: "設計と作業計画をサブエージェントで確認し、矛盾やDocker条件を点検します"
+  default_prompt: "$spec-2-review を使い、開発計画の完了状況と悪影響・思い込みをレビューしてください。"

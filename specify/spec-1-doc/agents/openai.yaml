@@ -1,0 +1,4 @@
+interface:
+  display_name: "spec-1-doc"
+  short_description: "個人開発のアイデアを短い対話で整理し、基本ルールと仕様書をまとめます"
+  default_prompt: "$spec-1-doc を使い、フェーズ1として作りたいものを相談しながら仕様書にまとめてください。"

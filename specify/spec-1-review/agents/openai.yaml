@@ -1,0 +1,4 @@
+interface:
+  display_name: "spec-1-review"
+  short_description: "仕様書の完成度と意図のずれをサブエージェントで確認し、対応を相談します"
+  default_prompt: "$spec-1-review を使い、仕様書の完了状況と悪影響・思い込みをレビューしてください。"
