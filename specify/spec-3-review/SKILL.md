@@ -7,6 +7,8 @@ description: 個人開発の実装と検証結果をサブエージェントに�
 
 `spec-3-build`の成果物を確認する。実行時は[レビュー手順](references/review-workflow.md)を読む。レビュー担当のサブエージェントとして渡された場合も同じ手順の担当範囲に従う。
 
+報告は[レビュー手順](references/review-workflow.md)の簡潔な形式に従う。未確認事項の採番・分類・反映状況は[未確認事項の管理](references/questions-workflow.md)で確認する。
+
 ## レビュー3の確認基準
 
 - 実装：依頼範囲の作業が実装され、仕様の主要な動作と受入条件に一致する。

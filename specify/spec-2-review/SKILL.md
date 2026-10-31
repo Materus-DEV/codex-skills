@@ -7,6 +7,8 @@ description: 個人開発の設計と作業計画をサブエージェントに�
 
 `spec-2-plan`の成果物を確認する。実行時は[レビュー手順](references/review-workflow.md)を読む。レビュー担当のサブエージェントとして渡された場合も同じ手順の担当範囲に従う。
 
+報告は[レビュー手順](references/review-workflow.md)の簡潔な形式に従う。未確認事項の採番・分類・反映状況は[未確認事項の管理](references/questions-workflow.md)で確認する。
+
 ## レビュー2の確認基準
 
 - 技術構成：言語と重要な構成の合意、選定理由、仕様の主要な動作との対応がある。
